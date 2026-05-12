@@ -6,9 +6,6 @@ h1, h2, p {
 }
 
 button {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background-color: #507fde;
     color: white;
     padding: 10px 20px;

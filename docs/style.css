@@ -4,3 +4,16 @@ h1, h2, p {
     font-weight: bold;
     text-align: center;
 }
+
+button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #507fde;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid #2356bd;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
